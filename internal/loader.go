@@ -9,7 +9,7 @@ import (
 	"github.com/knq/snaker"
 	"github.com/pkg/errors"
 
-	"github.com/xo/xo/models"
+	"github.com/brantou/xo/models"
 )
 
 // Loader is the common interface for database drivers that can generate code

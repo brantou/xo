@@ -1,4 +1,4 @@
-module github.com/xo/xo
+module github.com/brantou/xo
 
 require (
 	github.com/alexflint/go-arg v1.3.0
